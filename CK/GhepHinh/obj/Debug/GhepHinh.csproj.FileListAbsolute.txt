@@ -1,0 +1,42 @@
+C:\Users\Lenovo\source\repos\DoanGiuaKi\GhepHinh\bin\Debug\GhepHinh.exe.config
+C:\Users\Lenovo\source\repos\DoanGiuaKi\GhepHinh\bin\Debug\GhepHinh.exe
+C:\Users\Lenovo\source\repos\DoanGiuaKi\GhepHinh\bin\Debug\GhepHinh.pdb
+C:\Users\Lenovo\source\repos\DoanGiuaKi\GhepHinh\obj\Debug\GhepHinh.csprojAssemblyReference.cache
+C:\Users\Lenovo\source\repos\DoanGiuaKi\GhepHinh\obj\Debug\GhepHinh.FormLogin.resources
+C:\Users\Lenovo\source\repos\DoanGiuaKi\GhepHinh\obj\Debug\GhepHinh.Properties.Resources.resources
+C:\Users\Lenovo\source\repos\DoanGiuaKi\GhepHinh\obj\Debug\GhepHinh.csproj.GenerateResource.cache
+C:\Users\Lenovo\source\repos\DoanGiuaKi\GhepHinh\obj\Debug\GhepHinh.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\source\repos\DoanGiuaKi\GhepHinh\obj\Debug\GhepHinh.exe
+C:\Users\Lenovo\source\repos\DoanGiuaKi\GhepHinh\obj\Debug\GhepHinh.pdb
+C:\Users\Lenovo\source\repos\DoanGiuaKi\GhepHinh\obj\Debug\GhepHinh.Jigsaw_Puzzle.resources
+C:\Users\Lenovo\source\repos\DoanGiuaKi\GhepHinh\obj\Debug\GhepHinh.frmRemote.resources
+C:\Users\Lenovo\source\repos\DoanGiuaKi\GhepHinh\bin\Debug\Bunifu_UI_v1.5.3.dll
+C:\Users\Lenovo\source\repos\DoanGiuaKi\GhepHinh\obj\Debug\GhepHinh.csproj.CopyComplete
+C:\Users\Lenovo\source\repos\DoanGiuaKi\GhepHinh\obj\Debug\GhepHinh.Help.resources
+C:\Users\Yoga\OneDrive\Desktop\​​​​​​​​​​​​\2020\LT window\Project_CK\Hasky\GhepHinh\bin\Debug\GhepHinh.exe.config
+C:\Users\Yoga\OneDrive\Desktop\​​​​​​​​​​​​\2020\LT window\Project_CK\Hasky\GhepHinh\bin\Debug\GhepHinh.exe
+C:\Users\Yoga\OneDrive\Desktop\​​​​​​​​​​​​\2020\LT window\Project_CK\Hasky\GhepHinh\bin\Debug\GhepHinh.pdb
+C:\Users\Yoga\OneDrive\Desktop\​​​​​​​​​​​​\2020\LT window\Project_CK\Hasky\GhepHinh\obj\Debug\GhepHinh.csprojAssemblyReference.cache
+C:\Users\Yoga\OneDrive\Desktop\​​​​​​​​​​​​\2020\LT window\Project_CK\Hasky\GhepHinh\obj\Debug\GhepHinh.FormLogin.resources
+C:\Users\Yoga\OneDrive\Desktop\​​​​​​​​​​​​\2020\LT window\Project_CK\Hasky\GhepHinh\obj\Debug\GhepHinh.Help.resources
+C:\Users\Yoga\OneDrive\Desktop\​​​​​​​​​​​​\2020\LT window\Project_CK\Hasky\GhepHinh\obj\Debug\GhepHinh.Properties.Resources.resources
+C:\Users\Yoga\OneDrive\Desktop\​​​​​​​​​​​​\2020\LT window\Project_CK\Hasky\GhepHinh\obj\Debug\GhepHinh.frmRemote.resources
+C:\Users\Yoga\OneDrive\Desktop\​​​​​​​​​​​​\2020\LT window\Project_CK\Hasky\GhepHinh\obj\Debug\GhepHinh.csproj.GenerateResource.cache
+C:\Users\Yoga\OneDrive\Desktop\​​​​​​​​​​​​\2020\LT window\Project_CK\Hasky\GhepHinh\obj\Debug\GhepHinh.csproj.CoreCompileInputs.cache
+C:\Users\Yoga\OneDrive\Desktop\​​​​​​​​​​​​\2020\LT window\Project_CK\Hasky\GhepHinh\obj\Debug\GhepHinh.csproj.CopyComplete
+C:\Users\Yoga\OneDrive\Desktop\​​​​​​​​​​​​\2020\LT window\Project_CK\Hasky\GhepHinh\obj\Debug\GhepHinh.exe
+C:\Users\Yoga\OneDrive\Desktop\​​​​​​​​​​​​\2020\LT window\Project_CK\Hasky\GhepHinh\obj\Debug\GhepHinh.pdb
+C:\Users\Yoga\OneDrive\Desktop\​​​​​​​​​​​​\2020\LT window\Project_CK\Hasky\GhepHinh\obj\Debug\GhepHinh.frmMain.resources
+C:\Users\Yoga\OneDrive\Desktop\​​​​​​​​​​​​\2020\LT window\Project_CK\backup\Hasky\GhepHinh\bin\Debug\GhepHinh.exe.config
+C:\Users\Yoga\OneDrive\Desktop\​​​​​​​​​​​​\2020\LT window\Project_CK\backup\Hasky\GhepHinh\bin\Debug\GhepHinh.exe
+C:\Users\Yoga\OneDrive\Desktop\​​​​​​​​​​​​\2020\LT window\Project_CK\backup\Hasky\GhepHinh\bin\Debug\GhepHinh.pdb
+C:\Users\Yoga\OneDrive\Desktop\​​​​​​​​​​​​\2020\LT window\Project_CK\backup\Hasky\GhepHinh\obj\Debug\GhepHinh.csprojAssemblyReference.cache
+C:\Users\Yoga\OneDrive\Desktop\​​​​​​​​​​​​\2020\LT window\Project_CK\backup\Hasky\GhepHinh\obj\Debug\GhepHinh.Help.resources
+C:\Users\Yoga\OneDrive\Desktop\​​​​​​​​​​​​\2020\LT window\Project_CK\backup\Hasky\GhepHinh\obj\Debug\GhepHinh.frmMain.resources
+C:\Users\Yoga\OneDrive\Desktop\​​​​​​​​​​​​\2020\LT window\Project_CK\backup\Hasky\GhepHinh\obj\Debug\GhepHinh.Properties.Resources.resources
+C:\Users\Yoga\OneDrive\Desktop\​​​​​​​​​​​​\2020\LT window\Project_CK\backup\Hasky\GhepHinh\obj\Debug\GhepHinh.frmRemote.resources
+C:\Users\Yoga\OneDrive\Desktop\​​​​​​​​​​​​\2020\LT window\Project_CK\backup\Hasky\GhepHinh\obj\Debug\GhepHinh.csproj.GenerateResource.cache
+C:\Users\Yoga\OneDrive\Desktop\​​​​​​​​​​​​\2020\LT window\Project_CK\backup\Hasky\GhepHinh\obj\Debug\GhepHinh.csproj.CoreCompileInputs.cache
+C:\Users\Yoga\OneDrive\Desktop\​​​​​​​​​​​​\2020\LT window\Project_CK\backup\Hasky\GhepHinh\obj\Debug\GhepHinh.csproj.CopyComplete
+C:\Users\Yoga\OneDrive\Desktop\​​​​​​​​​​​​\2020\LT window\Project_CK\backup\Hasky\GhepHinh\obj\Debug\GhepHinh.exe
+C:\Users\Yoga\OneDrive\Desktop\​​​​​​​​​​​​\2020\LT window\Project_CK\backup\Hasky\GhepHinh\obj\Debug\GhepHinh.pdb

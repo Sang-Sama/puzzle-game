@@ -1,0 +1,49 @@
+D:\visua\MMT\socket c#\sever\sever\bin\Debug\sever.exe.config
+D:\visua\MMT\socket c#\sever\sever\obj\Debug\sever.csprojResolveAssemblyReference.cache
+D:\visua\MMT\socket c#\sever\sever\obj\Debug\sever.Form1.resources
+D:\visua\MMT\socket c#\sever\sever\obj\Debug\sever.Properties.Resources.resources
+D:\visua\MMT\socket c#\sever\sever\obj\Debug\sever.csproj.GenerateResource.Cache
+D:\visua\MMT\socket c#\sever\sever\bin\Debug\sever.exe
+D:\visua\MMT\socket c#\sever\sever\bin\Debug\sever.pdb
+D:\visua\MMT\socket c#\sever\sever\obj\Debug\sever.exe
+D:\visua\MMT\socket c#\sever\sever\obj\Debug\sever.pdb
+D:\MMT\MMT_ Newwwwww\socket c# - Copy\sever\sever\bin\Debug\sever.exe.config
+D:\MMT\MMT_ Newwwwww\socket c# - Copy\sever\sever\bin\Debug\sever.exe
+D:\MMT\MMT_ Newwwwww\socket c# - Copy\sever\sever\bin\Debug\sever.pdb
+D:\MMT\MMT_ Newwwwww\socket c# - Copy\sever\sever\obj\Debug\sever.csprojAssemblyReference.cache
+D:\MMT\MMT_ Newwwwww\socket c# - Copy\sever\sever\obj\Debug\sever.Form1.resources
+D:\MMT\MMT_ Newwwwww\socket c# - Copy\sever\sever\obj\Debug\sever.Properties.Resources.resources
+D:\MMT\MMT_ Newwwwww\socket c# - Copy\sever\sever\obj\Debug\sever.csproj.GenerateResource.cache
+D:\MMT\MMT_ Newwwwww\socket c# - Copy\sever\sever\obj\Debug\sever.csproj.CoreCompileInputs.cache
+D:\MMT\MMT_ Newwwwww\socket c# - Copy\sever\sever\obj\Debug\sever.exe
+D:\MMT\MMT_ Newwwwww\socket c# - Copy\sever\sever\obj\Debug\sever.pdb
+C:\Users\Yoga\OneDrive\Desktop\02_1660196_1760003_1760072\Source\sever\sever\obj\Debug\sever.csprojAssemblyReference.cache
+C:\Users\Yoga\OneDrive\Desktop\02_1660196_1760003_1760072\Source\sever\sever\obj\Debug\sever.Form1.resources
+C:\Users\Yoga\OneDrive\Desktop\02_1660196_1760003_1760072\Source\sever\sever\obj\Debug\sever.Properties.Resources.resources
+C:\Users\Yoga\OneDrive\Desktop\02_1660196_1760003_1760072\Source\sever\sever\obj\Debug\sever.csproj.GenerateResource.cache
+C:\Users\Yoga\OneDrive\Desktop\02_1660196_1760003_1760072\Source\sever\sever\obj\Debug\sever.csproj.CoreCompileInputs.cache
+C:\Users\Yoga\OneDrive\Desktop\02_1660196_1760003_1760072\Source\sever\sever\obj\Debug\sever.exe
+C:\Users\Yoga\OneDrive\Desktop\02_1660196_1760003_1760072\Source\sever\sever\obj\Debug\sever.pdb
+C:\Users\Yoga\OneDrive\Desktop\02_1660196_1760003_1760072\Source\sever\sever\bin\Debug\sever.exe.config
+C:\Users\Yoga\OneDrive\Desktop\02_1660196_1760003_1760072\Source\sever\sever\bin\Debug\sever.exe
+C:\Users\Yoga\OneDrive\Desktop\02_1660196_1760003_1760072\Source\sever\sever\bin\Debug\sever.pdb
+C:\Users\Yoga\OneDrive\Desktop\1760162_0800\Source\sever\sever\bin\Debug\sever.exe.config
+C:\Users\Yoga\OneDrive\Desktop\1760162_0800\Source\sever\sever\bin\Debug\sever.exe
+C:\Users\Yoga\OneDrive\Desktop\1760162_0800\Source\sever\sever\bin\Debug\sever.pdb
+C:\Users\Yoga\OneDrive\Desktop\1760162_0800\Source\sever\sever\obj\Debug\sever.csprojAssemblyReference.cache
+C:\Users\Yoga\OneDrive\Desktop\1760162_0800\Source\sever\sever\obj\Debug\sever.Form1.resources
+C:\Users\Yoga\OneDrive\Desktop\1760162_0800\Source\sever\sever\obj\Debug\sever.Properties.Resources.resources
+C:\Users\Yoga\OneDrive\Desktop\1760162_0800\Source\sever\sever\obj\Debug\sever.csproj.GenerateResource.cache
+C:\Users\Yoga\OneDrive\Desktop\1760162_0800\Source\sever\sever\obj\Debug\sever.csproj.CoreCompileInputs.cache
+C:\Users\Yoga\OneDrive\Desktop\1760162_0800\Source\sever\sever\obj\Debug\sever.exe
+C:\Users\Yoga\OneDrive\Desktop\1760162_0800\Source\sever\sever\obj\Debug\sever.pdb
+C:\Users\Yoga\OneDrive\Desktop\​​​​​​​​​​​​\2020\LT window\1760162_0800\Source\sever\sever\bin\Debug\sever.exe.config
+C:\Users\Yoga\OneDrive\Desktop\​​​​​​​​​​​​\2020\LT window\1760162_0800\Source\sever\sever\bin\Debug\sever.exe
+C:\Users\Yoga\OneDrive\Desktop\​​​​​​​​​​​​\2020\LT window\1760162_0800\Source\sever\sever\bin\Debug\sever.pdb
+C:\Users\Yoga\OneDrive\Desktop\​​​​​​​​​​​​\2020\LT window\1760162_0800\Source\sever\sever\obj\Debug\sever.csprojAssemblyReference.cache
+C:\Users\Yoga\OneDrive\Desktop\​​​​​​​​​​​​\2020\LT window\1760162_0800\Source\sever\sever\obj\Debug\sever.Form1.resources
+C:\Users\Yoga\OneDrive\Desktop\​​​​​​​​​​​​\2020\LT window\1760162_0800\Source\sever\sever\obj\Debug\sever.Properties.Resources.resources
+C:\Users\Yoga\OneDrive\Desktop\​​​​​​​​​​​​\2020\LT window\1760162_0800\Source\sever\sever\obj\Debug\sever.csproj.GenerateResource.cache
+C:\Users\Yoga\OneDrive\Desktop\​​​​​​​​​​​​\2020\LT window\1760162_0800\Source\sever\sever\obj\Debug\sever.csproj.CoreCompileInputs.cache
+C:\Users\Yoga\OneDrive\Desktop\​​​​​​​​​​​​\2020\LT window\1760162_0800\Source\sever\sever\obj\Debug\sever.exe
+C:\Users\Yoga\OneDrive\Desktop\​​​​​​​​​​​​\2020\LT window\1760162_0800\Source\sever\sever\obj\Debug\sever.pdb
